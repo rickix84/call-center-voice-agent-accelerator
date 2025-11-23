@@ -22,4 +22,4 @@ dependencies = [
 
 [tool.uv]
 # Define the virtual environment location for uv
-project_environment = ".venv"
+# project_environment = ".venv"
