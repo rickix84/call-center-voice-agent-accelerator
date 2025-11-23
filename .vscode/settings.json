@@ -1,0 +1,4 @@
+{
+    "sarif-viewer.connectToGithubCodeScanning": "off",
+    "FSharp.suggestGitignore": false
+}
